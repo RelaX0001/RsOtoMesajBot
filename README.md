@@ -53,7 +53,7 @@ Sonra O Butonun Üzerinde `Confirmation code` Yazan Bir Yer Geliyor. Oraya Teleg
 
 <img width="427" height="159" alt="image" src="https://github.com/user-attachments/assets/8bef51f6-0ba3-4f9e-a23e-1c07f5662894" />
 
-Tekrardan `Sıgın In` Butonuna Basıyoruz.
+Tekrardan `Sıgn In` Butonuna Basıyoruz.
 
 Sonra Karşımıza Şöyle Bir Yer Geliyor.
 
