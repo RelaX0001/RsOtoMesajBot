@@ -172,12 +172,6 @@ Evet İşlemlerimiz Bitti.
 
 Sonuç Olarak `.env` Dosyamız Örnekteki Gibi Gözükecektir.
 
-TELEGRAM_API_ID=23******
-TELEGRAM_API_HASH=8a7654a*************************
-TELEGRAM_BOT_TOKEN=8202******:AAE8p1hx2lbGx**********************
-BOT_OWNER_ID=77728****
-DEFAULT_INTERVAL_MINUTES=1
-
 <img width="543" height="110" alt="image" src="https://github.com/user-attachments/assets/71fe9d35-f358-480a-b363-a480fc2edc11" />
 
 =================================================================
