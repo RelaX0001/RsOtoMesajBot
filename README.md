@@ -246,7 +246,7 @@ Okuduğun İçin Teşekkür Ederim. Kendine İyi Bak Sağlıcakla Kal Dostum.
 - Telegram Sohbet Grubumuz: https://t.me/relaxserviceschat
 - İnstagram Hesabımız: https://www.instagram.com/dev.relax/
 
-  # BOTTAN GÖRÜNTÜLER
+# BOTTAN GÖRÜNTÜLER
 
 <img width="582" height="828" alt="image" src="https://github.com/user-attachments/assets/96cc8fd3-a17a-473b-a1bd-bd16b6f91bfd" />
 <img width="545" height="415" alt="image" src="https://github.com/user-attachments/assets/a1fed172-f5bd-4967-bc12-2ed9469a9472" />
