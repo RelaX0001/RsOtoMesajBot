@@ -8,10 +8,10 @@ node -v >nul 2>&1
 IF %ERRORLEVEL% NEQ 0 (
     echo ----------------------------------------------
     echo   Node.js Bulunamadi!
-    echo   Otomatik İndirme Ve Kurulum Baslatiliyor...
+    echo   Otomatik Indirme Ve Kurulum Baslatiliyor...
     echo ----------------------------------------------
 
-    echo Node.js İndiriliyor...
+    echo Node.js Indiriliyor...
 
     powershell -NoLogo -NoProfile -Command ^
         "$url='https://nodejs.org/dist/v20.12.2/node-v20.12.2-x64.msi';" ^
@@ -34,3 +34,4 @@ echo.
 echo Kurulum Tamamlandi. Lutfen Herhangi Bir Tusa Basiniz.
 pause
 exit
+
