@@ -25,7 +25,7 @@ Boş Vakitlerimde Uğraşıp Yazdığım Bu Telegram Reklam Botundan Biraz Bahse
 
 Ardından [kutuphane_yukleyici.bat] Dosyamızı Sağ Tıklayıp Yönetici Olarak Çalıştır Diyoruz. Bu İşlem İse Bize Gerekli Kütüphaneleri Yükleyecektir.
 
-==================================================================================================================
+=================================================================
 
 Evet Şimdi İse Şöyle Yapıyoruz.
 
@@ -69,7 +69,7 @@ TELEGRAM_API_HASH=8a7654a*************************
 
 Yerlerine Örnekteki Gibi Yazacaksınız.
 
-==================================================================================================================
+=================================================================
 
 Sonra Telegramda Reklam Yapmak İstediğimiz Hesabımıza Girip,
 
@@ -106,7 +106,7 @@ TELEGRAM_BOT_TOKEN=8202******:AAE8p1hx2lbGx**********************
 
 Yerine Örnekteki Gibi Yazıyoruz.
 
-==================================================================================================================
+=================================================================
 
 Sonra Telegramda Aynı BotFatherde Olduğu Gibi Şimdide https://t.me/raw_data_bot a Gidip Start Veriyoruz.
 
@@ -136,7 +136,7 @@ TELEGRAM_BOT_TOKEN=8202******:AAE8p1hx2lbGx**********************
 BOT_OWNER_ID=77728****
 DEFAULT_INTERVAL_MINUTES=1
 
-==================================================================================================================
+=================================================================
 
 Şimdi Gelelim Botumuza Start Verelim [t.me/rsreklambot]. BotFather'den Oluşturduğumuz Botumuz Buydu. Siz Kendi Oluşturduğunuza Start Vericeksiniz.
 
