@@ -47,35 +47,35 @@ Evet Şimdi İse Şöyle Yapıyoruz.
 
 Reklam Hesabı Olarak Kullanacağımız Telegram Hesabımızın Telefon Nuamrasını Giriyoruz.
 
-Ardından Aşağıdaki [Next] Butonuna Basıyoruz.
+Ardından Aşağıdaki `Next` Butonuna Basıyoruz.
 
-Sonra O Butonun Üzerinde [Confirmation code] Yazan Bir Yer Geliyor. Oraya Telegram Uygulamasından Hesabımıza Telegram Tarafından Gönderilen Kodu Yazıp,
+Sonra O Butonun Üzerinde `Confirmation code` Yazan Bir Yer Geliyor. Oraya Telegram Uygulamasından Hesabımıza Telegram Tarafından Gönderilen Kodu Yazıp,
 
 <img width="427" height="159" alt="image" src="https://github.com/user-attachments/assets/8bef51f6-0ba3-4f9e-a23e-1c07f5662894" />
 
-Tekrardan [Sıgın In] Butonuna Basıyoruz.
+Tekrardan `Sıgın In` Butonuna Basıyoruz.
 
 Sonra Karşımıza Şöyle Bir Yer Geliyor.
 
 <img width="477" height="213" alt="image" src="https://github.com/user-attachments/assets/dca9a96e-1744-459d-938c-f6167c6f9616" />
 
 
-[Your Telegram Core]
-[API development tools]
-[Delete account]
-[Log out]
+`Your Telegram Core`
+`API development tools`
+`Delete account`
+`Log out`
 
-Bunlardan 1. Olanı Yani [API development tools] Yazana Basıyoruz. Sonra Karşımıza Böyle Bir Yer Geliyor.
+Bunlardan 1. Olanı Yani `API development tools` Yazana Basıyoruz. Sonra Karşımıza Böyle Bir Yer Geliyor.
 
-[Create new Application]
+`Create new Application`
 
-[App title: ]
+`App title:`
 
-[Short name:]
+`Short name:`
 
-[URL: ]
+`URL:`
 
-Buraları İstediğiniz Gibi Doldurup Aşşağıdaki [Saving...] Butonuna Basınız.
+Buraları İstediğiniz Gibi Doldurup Aşşağıdaki `Saving...` Butonuna Basınız.
 
 Sonra Karşımıza Gelen Ekranda,
 
@@ -84,7 +84,7 @@ Sonra Karşımıza Gelen Ekranda,
 App api_id: 23******
 App api_hash: 8a7654a*************************
 
-Bu Şekilde Değerler Olucak Bunları Alıp .env Dosyamızdaki,
+Bu Şekilde Değerler Olucak Bunları Alıp `.env` Dosyamızdaki,
 
 TELEGRAM_API_ID=23******
 TELEGRAM_API_HASH=8a7654a*************************
@@ -107,11 +107,11 @@ Sonra Telegramda Reklam Yapmak İstediğimiz Hesabımıza Girip,
 
 Sonra Gelen Mesajdan Sonra.
 
-[/newbot] Komutunu Yazınız.
+`/newbot` Komutunu Yazınız.
 
 Ardından Gelen Soruda Botunuzun İsmi Ne Olsun Diye Soruyor. Rastgele Bir Şey Diyebilirsiniz.
 
-Sonra Botunuzun Kullanıcı Adı Ne Olsun Diye Soruyor. Onada Rastgele Bir Şey Yazın Fakat [Sonu Bot İle Bitmek Zorunda.]
+Sonra Botunuzun Kullanıcı Adı Ne Olsun Diye Soruyor. Onada Rastgele Bir Şey Yazın Fakat `Sonu Bot İle Bitmek Zorunda.`
 
 Sonra Şöyle Bir Mesaj Alıyoruz.
 
@@ -158,7 +158,7 @@ Bot haberleri: @idbotnews
 
 Not: Kimliğiniz: 77728****
 
-Şeklinde ID Değerinizi Atıyor Bu Değeride Alıp .env Deki 
+Şeklinde ID Değerinizi Atıyor Bu Değeride Alıp `.env` Deki 
 
 BOT_OWNER_ID=77728****
 
@@ -170,7 +170,7 @@ Yerine Örnekteki Gibi Yazıyoruz.
 
 Evet İşlemlerimiz Bitti.
 
-Sonuç Olarak .env Dosyamız Örnekteki Gibi Gözükecektir.
+Sonuç Olarak `.env` Dosyamız Örnekteki Gibi Gözükecektir.
 
 TELEGRAM_API_ID=23******
 TELEGRAM_API_HASH=8a7654a*************************
@@ -182,7 +182,7 @@ DEFAULT_INTERVAL_MINUTES=1
 
 =================================================================
 
-Şimdi Gelelim Botumuza Start Verelim [t.me/rsreklambot]. BotFather'den Oluşturduğumuz Botumuz Buydu. Siz Kendi Oluşturduğunuza Start Vericeksiniz.
+Şimdi Gelelim Botumuza Start Verelim `t.me/rsreklambot`. BotFather'den Oluşturduğumuz Botumuz Buydu. Siz Kendi Oluşturduğunuza Start Vericeksiniz.
 
 <img width="1519" height="1004" alt="image" src="https://github.com/user-attachments/assets/73ec0a1b-1868-4f0f-899b-6158490851ab" />
 
@@ -196,7 +196,7 @@ Evet Şimdi İse Botumuzun Dosyalarının Ana Dizininde Cmd Ekranı Açıyoruz. 
 
 Sonra Açılan Cmd Ekranına Şu Komutu Yazıyoruz.
 
-npm run init-session
+`npm run init-session`
 
 Sonra Gelen Sorulara Cevap Veriyoruz.
 
@@ -224,7 +224,7 @@ Yazacaktır.
 
 Aynı Ekrana Şimdide 
 
-[node .]
+`node .`
 
 Komutunu Yazarak Botumuzu Aktif Ediyoruz.
 
