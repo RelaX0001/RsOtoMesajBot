@@ -25,13 +25,13 @@ Boş Vakitlerimde Uğraşıp Yazdığım Bu Telegram Reklam Botundan Biraz Bahse
 
 <img width="467" height="197" alt="image" src="https://github.com/user-attachments/assets/8647c040-5212-4fda-8826-74a1e1aec014" />
 
-Ardından [kutuphane_yukleyici.bat] Dosyamızı Sağ Tıklayıp Yönetici Olarak Çalıştır Diyoruz. Bu İşlem İse Bize Gerekli Kütüphaneleri Yükleyecektir.
+Ardından `kutuphane_yukleyici.bat` Dosyamızı Sağ Tıklayıp Yönetici Olarak Çalıştır Diyoruz. Bu İşlem İse Bize Gerekli Kütüphaneleri Yükleyecektir.
 
 <img width="615" height="115" alt="image" src="https://github.com/user-attachments/assets/7e47a09d-b61e-4585-a34c-26da326aa0a5" />
 
 <img width="676" height="155" alt="image" src="https://github.com/user-attachments/assets/c7c64531-c274-4e8e-b38c-99e60c14da6e" />
 
-Ardından [env_olusturucu.bat] Dosyamızı Sağ Tıklayıp Yönetici Olarak Çalıştır Diyoruz.
+Ardından `env_olusturucu.bat` Dosyamızı Sağ Tıklayıp Yönetici Olarak Çalıştır Diyoruz.
 
 <img width="535" height="109" alt="image" src="https://github.com/user-attachments/assets/58015725-99a5-4f5c-8f7c-d33dd948ee03" />
 
@@ -214,7 +214,7 @@ Sonra Gelen Soruda Hesabımıza 2Fa Parolası Varsa Eğer Giriyoruz Sonra Enter 
 
 Sonra Bir Hata Yapmadıysanız Ekranda Size
 
-✅ Oturumunuz Başarıyla Oluşturuldu Ve Ana Dizine Kaydedildi. Lütfen [session.txt] Dosyanızı Silmeyiniz!
+✅ Oturumunuz Başarıyla Oluşturuldu Ve Ana Dizine Kaydedildi. Lütfen `session.txt` Dosyanızı Silmeyiniz!
 
 Yazacaktır.
 
