@@ -19,7 +19,7 @@ Boş Vakitlerimde Uğraşıp Yazdığım Bu Telegram Reklam Botundan Biraz Bahse
 
 # KURULUM
 
-Öncelikle [nodejs_indirici.bat] Dosyamızı Sağ Tıklayıp Yönetici Olarak Çalıştır Diyoruz. Bu İşlem Sisteminizde Node.js Yok İse Yükleyip Otomatik Kuracaktır.
+Öncelikle `nodejs_indirici.bat` Dosyamızı Sağ Tıklayıp Yönetici Olarak Çalıştır Diyoruz. Bu İşlem Sisteminizde Node.js Yok İse Yükleyip Otomatik Kuracaktır.
 
 <img width="622" height="158" alt="image" src="https://github.com/user-attachments/assets/028e926e-83f9-4d8c-9ec4-3c2380bbd592" />
 
