@@ -17,9 +17,7 @@ Boş Vakitlerimde Uğraşıp Yazdığım Bu Telegram Reklam Botundan Biraz Bahse
 
 🚀 Her Şey Sizin İçin Kolay, Hızlı Ve Zahmetsiz Olacak Şekilde Tasarlandı.
 
-===================
-- - - KURULUM - - -
-===================
+# KURULUM
 
 Öncelikle [nodejs_indirici.bat] Dosyamızı Sağ Tıklayıp Yönetici Olarak Çalıştır Diyoruz. Bu İşlem Sisteminizde Node.js Yok İse Yükleyip Otomatik Kuracaktır.
 
@@ -183,9 +181,7 @@ Boyle Bir Sonuç Alırsak Her Şey Yolunda Demektir. Şimdi İse Botumuza Gidip 
 
 Okuduğun İçin Teşekkür Ederim. Kendine İyi Bak Sağlıcakla Kal Dostum.
 
-===================
-- - - DESTEK - - -
-===================
+# DESTEK
 
 Discord Hesabım: @devrelax
 Discord Sunucumuz: https://discord.com/invite/WfPtUUkc7C
