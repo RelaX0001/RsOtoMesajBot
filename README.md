@@ -126,7 +126,7 @@ Keep your token secure and store it safely, it can be used by anyone to control 
 
 For a description of the Bot API, see this page: https://core.telegram.org/bots/api
 
-<img width="463" height="487" alt="image" src="https://github.com/user-attachments/assets/bd38bd5b-eda3-4254-906f-9e171f7a9ede" />
+<img width="382" height="344" alt="image" src="https://github.com/user-attachments/assets/db26d029-fb6e-4069-8e01-d82f110d1f58" />
 
 Bu Mesajdan Sonra İşlemimiz Bitti.
 
