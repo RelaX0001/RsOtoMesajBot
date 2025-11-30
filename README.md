@@ -183,9 +183,9 @@ Okuduğun İçin Teşekkür Ederim. Kendine İyi Bak Sağlıcakla Kal Dostum.
 
 # DESTEK
 
-Discord Hesabım: @devrelax
-Discord Sunucumuz: https://discord.com/invite/WfPtUUkc7C
-Telegram Hesabım: https://t.me/relaxbey
-Telegram İnfo Kanalımız: https://t.me/relax_services
-Telegram Sohbet Grubumuz: https://t.me/relaxserviceschat
-İnstagram Hesabımız: https://www.instagram.com/dev.relax/
+- Discord Hesabım: @devrelax
+- Discord Sunucumuz: https://discord.com/invite/WfPtUUkc7C
+- Telegram Hesabım: https://t.me/relaxbey
+- Telegram İnfo Kanalımız: https://t.me/relax_services
+- Telegram Sohbet Grubumuz: https://t.me/relaxserviceschat
+- İnstagram Hesabımız: https://www.instagram.com/dev.relax/
