@@ -184,9 +184,9 @@ DEFAULT_INTERVAL_MINUTES=1
 
 Şimdi Gelelim Botumuza Start Verelim [t.me/rsreklambot]. BotFather'den Oluşturduğumuz Botumuz Buydu. Siz Kendi Oluşturduğunuza Start Vericeksiniz.
 
-<img width="309" height="132" alt="image" src="https://github.com/user-attachments/assets/3681ed6d-93cb-4f61-906c-9dfba3f108cf" />
+<img width="1519" height="1004" alt="image" src="https://github.com/user-attachments/assets/73ec0a1b-1868-4f0f-899b-6158490851ab" />
 
-<img width="1145" height="991" alt="image" src="https://github.com/user-attachments/assets/1cb8b912-5871-4da4-8b98-f7e58bbf6a17" />
+<img width="796" height="996" alt="image" src="https://github.com/user-attachments/assets/4f130e7c-77d7-4682-a29a-bf9604883720" />
 
 Evet Şimdi İse Botumuzun Dosyalarının Ana Dizininde Cmd Ekranı Açıyoruz. O Dizinde Olmamız Gerekli.
 
