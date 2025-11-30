@@ -11,7 +11,7 @@ IF %ERRORLEVEL% NEQ 0 (
     exit /b
 )
 
-echo ✔ Node.js Bulundu.
+echo Node.js Bulundu.
 echo.
 echo Gerekli NPM Kutuphaneleri Yukleniyor...
 echo.
@@ -25,7 +25,8 @@ IF %ERRORLEVEL% NEQ 0 (
 )
 
 echo.
-echo ✔ Kutuphaneler Basariyla Yuklendi!
+echo Kutuphaneler Basariyla Yuklendi!
 echo.
 pause
 exit
+
