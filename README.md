@@ -31,11 +31,9 @@ Ardından `kutuphane_yukleyici.bat` Dosyamızı Sağ Tıklayıp Yönetici Olarak
 
 <img width="676" height="155" alt="image" src="https://github.com/user-attachments/assets/c7c64531-c274-4e8e-b38c-99e60c14da6e" />
 
-Ardından `env_olusturucu.bat` Dosyamızı Sağ Tıklayıp Yönetici Olarak Çalıştır Diyoruz.
+Ardından `env_olusturucu.bat` Dosyamıza Çift Tıklayıp Çalıştırıyoruz.
 
-<img width="535" height="109" alt="image" src="https://github.com/user-attachments/assets/58015725-99a5-4f5c-8f7c-d33dd948ee03" />
-
-<img width="311" height="96" alt="image" src="https://github.com/user-attachments/assets/b56dec60-add2-4f42-8c60-150ecccc8af0" />
+<img width="448" height="138" alt="image" src="https://github.com/user-attachments/assets/65a87535-1d08-4f3a-a225-7aaa295ce7e4" />
 
 =================================================================
 
