@@ -7,15 +7,15 @@ Boş Vakitlerimde Uğraşıp Yazdığım Bu Telegram Reklam Botundan Biraz Bahse
 
 ✨ Neler Yapabilirsiniz?
 
-📍 Reklam Mesajlarınızın Alınacağı Kaynak Grubu Seçebilirsiniz.
-🎯 Reklamların Gönderileceği Hedef Grupları Belirleyebilirsiniz.
-⏱ Reklam Mesajlarınızın Gönderim Aralığını Yönetebilirsiniz.
-📨 Sabit Veya Gruptaki Son Mesaj Modları Arasında Geçiş Yapabilirsiniz.
-⚙ Gelişmiş Ayarlarla Tam Kontrol Sağlayabilirsiniz.
-📜 Log Kayıtlarını Anlık İnceleyebilirsiniz.
-🧪 Test Gönderimi Yaparak Sistemin Çalıştığını Doğrulayabilirsiniz.
+- 📍 Reklam Mesajlarınızın Alınacağı Kaynak Grubu Seçebilirsiniz.
+- 🎯 Reklamların Gönderileceği Hedef Grupları Belirleyebilirsiniz.
+- ⏱ Reklam Mesajlarınızın Gönderim Aralığını Yönetebilirsiniz.
+- 📨 Sabit Veya Gruptaki Son Mesaj Modları Arasında Geçiş Yapabilirsiniz.
+- ⚙ Gelişmiş Ayarlarla Tam Kontrol Sağlayabilirsiniz.
+- 📜 Log Kayıtlarını Anlık İnceleyebilirsiniz.
+- 🧪 Test Gönderimi Yaparak Sistemin Çalıştığını Doğrulayabilirsiniz.
 
-🚀 Her Şey Sizin İçin Kolay, Hızlı Ve Zahmetsiz Olacak Şekilde Tasarlandı.
+- 🚀 Her Şey Sizin İçin Kolay, Hızlı Ve Zahmetsiz Olacak Şekilde Tasarlandı.
 
 # KURULUM
 
