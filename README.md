@@ -235,6 +235,8 @@ Boyle Bir Sonuç Alırsak Her Şey Yolunda Demektir. Şimdi İse Botumuza Gidip 
 
 Orada Herşey Gayet Açık Ve Net Anlatmama Gerek Yok Baya Yoruldum Yazarken Umarım Anlaşılır Olmuşumdur.
 
+✅ Bot Varsayılan Reklam Kaynağı Olarak, Ayarladığınız Gruptaki Son Mesajı Atıcak Şekilde Ayarlandı. Sabit Mesaj Ayarlamak İçin Botun Yönetim Panelinden Gelişmiş Butonu'na Basıp, Oradan Sabit Mesaj Ayarla Butonu'nu Kullanarak Değiştirebilirsiniz. 
+
 Okuduğun İçin Teşekkür Ederim. Kendine İyi Bak Sağlıcakla Kal Dostum.
 
 # YARDIM & DESTEK
