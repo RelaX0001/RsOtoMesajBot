@@ -186,7 +186,9 @@ Sonra Açılan Cmd Ekranına Şu Komutu Yazıyoruz.
 
 `npm i` Sonra Enter Tuşuna Basıyoruz.
 
-Sonra İse
+<img width="959" height="302" alt="image" src="https://github.com/user-attachments/assets/0ff0b192-dcc3-4250-95fe-db7f305ad1c2" />
+
+Sonra İse,
 
 `npm run init-session` Yazıyoruz.
 
