@@ -25,12 +25,6 @@ Boş Vakitlerimde Uğraşıp Yazdığım Bu Telegram Reklam Botundan Biraz Bahse
 
 <img width="467" height="197" alt="image" src="https://github.com/user-attachments/assets/8647c040-5212-4fda-8826-74a1e1aec014" />
 
-Ardından `kutuphane_yukleyici.bat` Dosyamızı Sağ Tıklayıp Yönetici Olarak Çalıştır Diyoruz. Bu İşlem İse Bize Gerekli Kütüphaneleri Yükleyecektir.
-
-<img width="615" height="115" alt="image" src="https://github.com/user-attachments/assets/7e47a09d-b61e-4585-a34c-26da326aa0a5" />
-
-<img width="676" height="155" alt="image" src="https://github.com/user-attachments/assets/c7c64531-c274-4e8e-b38c-99e60c14da6e" />
-
 Ardından `env_olusturucu.bat` Dosyamıza Çift Tıklayıp Çalıştırıyoruz.
 
 <img width="448" height="138" alt="image" src="https://github.com/user-attachments/assets/65a87535-1d08-4f3a-a225-7aaa295ce7e4" />
@@ -130,7 +124,7 @@ Bu Mesajdan Sonra İşlemimiz Bitti.
 
 8202******:AAE8p1hx2lbGx**********************
 
-Bu Yarısını Bulurladıgım Şey Bizim Botumuzun Tokeni, Bunu Alıp .env Dosyasındaki.
+Bu Yarısını Bulurladıgım Şey Bizim Botumuzun Tokeni, Bunu Alıp `.env` Dosyasındaki.
 
 TELEGRAM_BOT_TOKEN=8202******:AAE8p1hx2lbGx**********************
 
@@ -184,11 +178,17 @@ Evet Şimdi İse Botumuzun Dosyalarının Ana Dizininde Cmd Ekranı Açıyoruz. 
 
 <img width="768" height="429" alt="image" src="https://github.com/user-attachments/assets/2b0b8ea5-dcca-4dbc-b2b3-ebb74c7fccd0" />
 
+Burayı Seçip Cmd Yazıp Enter Tuşuna Basıyoruz. Bu İşlem O Dizinde Bize Cmd Ekranı Açıcaktır.
+
 <img width="661" height="131" alt="image" src="https://github.com/user-attachments/assets/a8f70a16-109a-4781-8f13-7b5020c051bc" />
 
 Sonra Açılan Cmd Ekranına Şu Komutu Yazıyoruz.
 
-`npm run init-session`
+`npm i` Sonra Enter Tuşuna Basıyoruz.
+
+Sonra İse
+
+`npm run init-session` Yazıyoruz.
 
 Sonra Gelen Sorulara Cevap Veriyoruz.
 
