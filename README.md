@@ -1,9 +1,9 @@
-Merhaba Dostum Uzun Bir Aradan Sonra Yine Karşılaştık :)
+👋 Merhaba Dostum Uzun Bir Aradan Sonra Yine Karşılaştık :)
 Boş Vakitlerimde Uğraşıp Yazdığım Bu Telegram Reklam Botundan Biraz Bahsedeyim.
 
 ℹ️ Bu Bot Reklam Paneli, Telegram Hesabınız Üzerinden Tam Otomatik Mesaj İletimi Yapabilmeniz İçin Özenle Tasarlandı.
 
-❇️ Aşağıdaki Butonları Kullanarak Tüm Ayarlarınızı Kolayca Yönetebilir, Reklamlarınızı İstediğiniz Gruplara Saniyeler İçinde Yönlendirebilirsiniz.
+❇️ Butonları Kullanarak Tüm Ayarlarınızı Kolayca Yönetebilir, Reklamlarınızı İstediğiniz Gruplara Saniyeler İçinde Yönlendirebilirsiniz.
 
 ✨ Neler Yapabilirsiniz?
 
